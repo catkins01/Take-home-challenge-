@@ -24,3 +24,22 @@ curl -X POST https://sandbox.plaid.com/institutions/search \
   }'
   After you use the revised example provided above you should be able to search by bank and product without issue.
   Have a great day. 
+  
+  
+  Challenge 3
+  
+  
+  
+  You have completed Plaid Link. View your accounts below.
+$100.00
+Plaid Checking - 0000
+$200.00
+Plaid Saving - 1111
+$1,000.00
+Plaid CD - 2222
+($410.00)
+Plaid Credit Card - 3333
+$890
+Total Assets
+
+PNC was the bank I used. 
